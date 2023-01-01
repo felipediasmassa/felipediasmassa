@@ -1,11 +1,15 @@
 # Felipe Massa
 
-<!---
-[![Linkedin](https://img.shields.io/badge/matheusccouto-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusccouto/)](https://www.linkedin.com/in/matheusccouto/)
-[![Gmail](https://img.shields.io/badge/matheusccouto@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=mailto:matheusccouto@gmail.com)](mailto:matheusccouto@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/matheusccouto?label=follow&style=social)](https://github.com/matheusccouto)
-
+[![Linkedin](https://img.shields.io/badge/felipediasmassa-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-dias-massa/)](https://www.linkedin.com/in/felipe-dias-massa/)
+[![Gmail](https://img.shields.io/badge/felipediasmassa97@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=mailto:felipediasmassa97@gmail.com)](mailto:felipediasmassa97@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/felipediasmassa?label=follow&style=social)](https://github.com/felipediasmassa)
 ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
+
+<!---
+
+
+
+
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white)
 ![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?&logo=google-cloud&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?&logo=dbt&logoColor=white)
