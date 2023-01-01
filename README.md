@@ -1,5 +1,6 @@
 # Felipe Massa
 
+<!---
 [![Linkedin](https://img.shields.io/badge/matheusccouto-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusccouto/)](https://www.linkedin.com/in/matheusccouto/)
 [![Gmail](https://img.shields.io/badge/matheusccouto@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=mailto:matheusccouto@gmail.com)](mailto:matheusccouto@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/matheusccouto?label=follow&style=social)](https://github.com/matheusccouto)
@@ -52,3 +53,4 @@
 [![analise-de-educacao-de-base-brasileira](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=analise-da-educacao-de-base-brasileira)](https://github.com/matheusccouto/analise-da-educacao-de-base-brasileira)
 
 [![humble-bundle-organizer](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=humble-bundle-organizer)](https://github.com/matheusccouto/humble-bundle-organizer)
+-->
