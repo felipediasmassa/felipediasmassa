@@ -4,6 +4,8 @@
 [![Gmail](https://img.shields.io/badge/felipediasmassa97@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=mailto:felipediasmassa97@gmail.com)](mailto:felipediasmassa97@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/felipediasmassa?label=follow&style=social)](https://github.com/felipediasmassa)
 
+### Hard Skills:
+
 ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 
 <!---
