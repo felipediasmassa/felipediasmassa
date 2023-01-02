@@ -57,6 +57,18 @@
 
 <!---
 
+## Soft Skills:
+teamwork
+leadership
+problem solving
+analytical and critical thinking
+training
+active learning
+collaboration
+motivation
+work ethic
+positive attitude
+
 ## Activity
 
 [![card](https://github-readme-stats.vercel.app/api?username=matheusccouto&theme=default)](https://github.com/matheusccouto/)
