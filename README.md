@@ -6,13 +6,13 @@
 
 ## About Me:
 
-I am leading engineer and maintainer of P&L 360
+:rocket: I am leading engineer and maintainer of P&L 360 :rocket:
 
-I am focusing on Python-coded AWS Lambda Functions and PostgreSQL databases
+:triangular_flag_on_post: I am focusing on Python-coded AWS Lambda Functions and PostgreSQL databases :triangular_flag_on_post:
 
-I am working according to SAFe framework using Jira
+:briefcase: I am working according to SAFe framework using Jira :briefcase:
 
-:books: I am currently learning Django for backend, and ReactJS and Material UI for front-end
+:books: I am currently learning Django for backend, and ReactJS and Material UI for front-end :books:
 
 ## Hard Skills:
 
@@ -86,11 +86,11 @@ I am working according to SAFe framework using Jira
 
 ## Portfolio
 
-Check out my template repo for working with ReactJS and Django for a web app (under construction)
+:construction: Check out my template repo for working with ReactJS and Django for a web app (under construction) :construction:
 
 [![django-react-web-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=django-react-web-app-template)](https://github.com/felipediasmassa/django-react-web-app-template)
 
-Check out how I version-control and maintain Microsoft Power Apps applications using Git
+:checkered_flag: Check out how I version-control and maintain Microsoft Power Apps applications using Git :checkered_flag:
 
 [![my-test-power-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=my-test-power-app)](https://github.com/felipediasmassa/my-test-power-app)
 
