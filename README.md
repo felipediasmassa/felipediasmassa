@@ -72,13 +72,15 @@
 
 ## Activity
 
-[![card](https://github-readme-stats.vercel.app/api?username=felipediasmassa&theme=default)](https://github.com/matheusccouto/)
-
-<!---
+[![card](https://github-readme-stats.vercel.app/api?username=felipediasmassa&theme=default)](https://github.com/felipediasmassa/)
 
 ## Portfolio
 
-[![palpiteiro](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=palpiteiro)](https://github.com/matheusccouto/palpiteiro)
+[![django-react-web-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=django-react-web-app-template)](https://github.com/felipediasmassa/django-react-web-app-template)
+
+[![my-test-power-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=my-test-power-app)](https://github.com/felipediasmassa/my-test-power-app)
+
+<!---
 
 [![bluff](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=bluff)](https://github.com/matheusccouto/bluff)
 
@@ -93,4 +95,5 @@
 [![analise-de-educacao-de-base-brasileira](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=analise-da-educacao-de-base-brasileira)](https://github.com/matheusccouto/analise-da-educacao-de-base-brasileira)
 
 [![humble-bundle-organizer](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=humble-bundle-organizer)](https://github.com/matheusccouto/humble-bundle-organizer)
+
 -->
