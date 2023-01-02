@@ -57,24 +57,24 @@
 
 ## Soft Skills:
 
-![collaboration](https://img.shields.io/badge/Collaboration-000000)
-![teamwork](https://img.shields.io/badge/Teamwork-000000)
-![leadership](https://img.shields.io/badge/Leadership-000000)
-![work ethic](https://img.shields.io/badge/Work%20Ethic-000000)
+![collaboration](https://img.shields.io/badge/Collaboration-AC2724)
+![teamwork](https://img.shields.io/badge/Teamwork-644B9C)
+![leadership](https://img.shields.io/badge/Leadership-42BEEB)
+![work ethic](https://img.shields.io/badge/Work%20Ethic-745AC0)
 
-![problem solving](https://img.shields.io/badge/Problem%20Solving-000000)
-![analytical and critical thinking](https://img.shields.io/badge/Analytical%20and%20Critical%20Thinking-000000)
-![training](https://img.shields.io/badge/Training-000000)
-![active learning](https://img.shields.io/badge/Active%20Learning-000000)
+![problem solving](https://img.shields.io/badge/Problem%20Solving-98C74D)
+![analytical and critical thinking](https://img.shields.io/badge/Analytical%20and%20Critical%20Thinking-6E8BAB)
+![training](https://img.shields.io/badge/Training-041F2A)
+![active learning](https://img.shields.io/badge/Active%20Learning-559C93)
 
-![motivation](https://img.shields.io/badge/Motivation-000000)
-![positive attitude](https://img.shields.io/badge/Positive%20Attitude-000000)
-
-<!---
+![motivation](https://img.shields.io/badge/Motivation-F06242)
+![positive attitude](https://img.shields.io/badge/Positive%20Attitude-709C8F)
 
 ## Activity
 
-[![card](https://github-readme-stats.vercel.app/api?username=matheusccouto&theme=default)](https://github.com/matheusccouto/)
+[![card](https://github-readme-stats.vercel.app/api?username=felipediasmassa&theme=default)](https://github.com/matheusccouto/)
+
+<!---
 
 ## Portfolio
 
