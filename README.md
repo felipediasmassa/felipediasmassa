@@ -4,6 +4,16 @@
 [![Gmail](https://img.shields.io/badge/felipediasmassa97@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=mailto:felipediasmassa97@gmail.com)](mailto:felipediasmassa97@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/felipediasmassa?label=follow&style=social)](https://github.com/felipediasmassa)
 
+## About Me:
+
+I am leading engineer and maintainer of P&L 360
+
+I am focusing on Python-coded AWS Lambda Functions and PostgreSQL databases
+
+I am working according to SAFe framework using Jira
+
+:books: I am currently learning Django for backend, and ReactJS and Material UI for front-end
+
 ## Hard Skills:
 
 ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
@@ -76,7 +86,11 @@
 
 ## Portfolio
 
+Check out my template repo for working with ReactJS and Django for a web app (under construction)
+
 [![django-react-web-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=django-react-web-app-template)](https://github.com/felipediasmassa/django-react-web-app-template)
+
+Check out how I version-control and maintain Microsoft Power Apps applications using Git
 
 [![my-test-power-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=my-test-power-app)](https://github.com/felipediasmassa/my-test-power-app)
 
