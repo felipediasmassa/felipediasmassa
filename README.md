@@ -10,20 +10,12 @@
 class FelipeDiasMassa:
 
     def __init__(self):
-        self.username = 'felipediasmassa'
-        self.name = 'Felipe Dias Massa'
-        self.role = :rocket: 'I am leading engineer and maintainer of P&L 360' :rocket:
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
-        }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+        self.username = "felipediasmassa"
+        self.name = "Felipe Dias Massa"
+        self.role = "I am leading engineer and maintainer of P&L 360"
+        self.focus = {"Programming": "Python-coded AWS Lambda Functions", "Database": "PostgreSQL"}
+        self.work = lambda x: x.loc[["Jira", "SAFe"]]
+        self.learning = ["Django for backend", "ReactJS for frontend", "Material UI because it looks beautiful"]
 
     def __str__(self):
         return self.name
@@ -32,6 +24,7 @@ if __name__ == '__main__':
     me = FelipeDiasMassa()
 ```
 
+<!--
 :rocket: I am leading engineer and maintainer of P&L 360 :rocket:
 
 :triangular_flag_on_post: I am focusing on Python-coded AWS Lambda Functions and PostgreSQL databases :triangular_flag_on_post:
@@ -39,6 +32,7 @@ if __name__ == '__main__':
 :briefcase: I am working according to SAFe framework using Jira :briefcase:
 
 :books: I am currently learning Django for backend, and ReactJS and Material UI for front-end :books:
+-->
 
 ## Hard Skills:
 
