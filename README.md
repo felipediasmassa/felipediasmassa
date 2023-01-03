@@ -12,6 +12,9 @@ class FelipeDiasMassa:
     def __init__(self):
         self.username = "felipediasmassa"
         self.name = "Felipe Dias Massa"
+        self.company = "TechnipFMC"
+        self.start_date = "2022-03-18"
+        self.job = "Digital Projects Engineer at TechnipFMC (Oct/21 - Present)"
         self.role = "I am leading engineer and maintainer of P&L 360"
         self.focus = {"Programming": "Python-coded AWS Lambda Functions", "Database": "PostgreSQL"}
         self.work = lambda x: x.loc[["Jira", "SAFe"]]
@@ -113,21 +116,3 @@ if __name__ == '__main__':
 :checkered_flag: Check out how I version-control and maintain Microsoft Power Apps applications using Git :checkered_flag:
 
 [![my-test-power-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=my-test-power-app)](https://github.com/felipediasmassa/my-test-power-app)
-
-<!---
-
-[![bluff](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=bluff)](https://github.com/matheusccouto/bluff)
-
-[![scikit-dict](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=scikit-dict)](https://github.com/matheusccouto/scikit-dict)
-
-[![scikit-tune](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=scikit-tune)](https://github.com/matheusccouto/scikit-tune)
-
-[![college-football-rankings](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=college-football-rankings)](https://github.com/matheusccouto/college-football-rankings)
-
-[![poker-coach](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=poker-coach)](https://github.com/matheusccouto/poker-coach)
-
-[![analise-de-educacao-de-base-brasileira](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=analise-da-educacao-de-base-brasileira)](https://github.com/matheusccouto/analise-da-educacao-de-base-brasileira)
-
-[![humble-bundle-organizer](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=humble-bundle-organizer)](https://github.com/matheusccouto/humble-bundle-organizer)
-
--->
