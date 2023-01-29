@@ -113,6 +113,10 @@ if __name__ == '__main__':
 
 [![django-react-web-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=django-react-web-app-template)](https://github.com/felipediasmassa/django-react-web-app-template)
 
+:construction: Check out my web scraping and data processing project to search for my new apartment (under construction) :construction:
+
+[![my-carioca-home](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=my-carioca-home)](https://github.com/felipediasmassa/my-carioca-home)
+
 :checkered_flag: Check out how I version-control and maintain Microsoft Power Apps applications using Git :checkered_flag:
 
 [![my-test-power-app](https://github-readme-stats.vercel.app/api/pin/?username=felipediasmassa&repo=my-test-power-app)](https://github.com/felipediasmassa/my-test-power-app)
